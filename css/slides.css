@@ -877,7 +877,7 @@ p.uppercase, .p.uppercase,
 }
 
 .slide.whiteSlide .dot:after {
-  background: #202020;
+  background: #FFFFFF;
 }
 
 .dot:hover:after {
